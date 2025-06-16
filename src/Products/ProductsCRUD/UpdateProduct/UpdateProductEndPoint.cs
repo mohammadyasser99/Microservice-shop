@@ -31,3 +31,4 @@ namespace Products.API.ProductsCRUD.UpdateProduct
                 .WithDescription("Update Product");
         }
     }
+}
